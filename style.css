@@ -16,3 +16,12 @@
 .bg-test {
   background: #66864994;
 }
+
+.list-inline {
+  list-style: none;
+  padding-left: 0;
+}
+
+footer ul{
+  display: block;
+}
